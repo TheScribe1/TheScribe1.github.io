@@ -27,6 +27,24 @@ Currently learning and improving skills in modern cloud technologies and infrast
 
 ---
 
+# 🎓 Education
+
+### Bachelor of Science in Computer Science & Engineering (CSE)
+
+📍 Leading University  
+🎯 CGPA: 3.10
+
+Completed undergraduate studies in Computer Science & Engineering with focus on:
+
+- Cloud Computing
+- Software Engineering
+- Networking
+- Web Development
+- System Design
+- Modern Infrastructure Technologies
+
+---
+
 # 🛠️ Tech Stack
 
 ## ☁️ Cloud & DevOps
@@ -48,16 +66,19 @@ Currently learning and improving skills in modern cloud technologies and infrast
 # 📂 Projects
 
 ## 🌐 Cloud Deployment Project
+
 Deployed scalable applications using Docker containers and Linux server environments.
 
 ---
 
 ## ⚡ DevOps Automation
+
 Created automated workflows and deployment pipelines using GitHub and scripting tools.
 
 ---
 
 ## 📱 Flutter Applications
+
 Developed responsive mobile applications using Flutter and Dart.
 
 ---
@@ -66,7 +87,7 @@ Developed responsive mobile applications using Flutter and Dart.
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thescribe1&show_icons=true&theme=chartreuse-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thescribe1&show_icons=true&theme=chartreuse-dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thescribe1&layout=compact&theme=chartreuse-dark)
 
@@ -84,12 +105,23 @@ Developed responsive mobile applications using Flutter and Dart.
 
 ---
 
+# 🏆 Achievements
+
+- 🥇 1st Place in Regional Hackathon
+- 🌍 12th Place in World Hackathon
+- 💻 Full-Stack Developer
+- 🎨 UI/UX Designer
+
+---
+
 # 📫 Connect With Me
 
 <p align="left">
+
 <a href="https://github.com/thescribe1">
 <img src="https://img.shields.io/badge/GitHub-00FFAA?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
+
 </p>
 
 ---
